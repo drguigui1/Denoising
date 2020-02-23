@@ -1,0 +1,68 @@
+# Instructions for the google image web scraping
+# research_type: the type of image to scrap
+# img_size: the size of the images to scrap
+# nbr: number of images to scrap
+
+- research_type: "cat"
+  img_size: "768x1024"
+  nbr: 500
+
+- research_type: "dog"
+  img_size: "768x1024"
+  nbr: 200
+
+- research_type: "wallpaper"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "landscape"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "cars"
+  img_size: "768x1024"
+  nbr: 300
+
+- research_type: "model"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "france"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "poland+landscape"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "food"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "hapiness"
+  img_size: "768x1024"
+  nbr: 100
+
+- research_type: "montagnes"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "plants"
+  img_size: "768x1024"
+  nbr: 1000
+
+- research_type: "china+landscape"
+  img_size: "768x1024"
+  nbr: 300
+
+- research_type: "paintings"
+  img_size: "768x1024"
+  nbr: 2000
+
+- research_type: "sky"
+  img_size: "768x1024"
+  nbr: 500
+
+- research_type: "cold"
+  img_size: "768x1024"
+  nbr: 800
